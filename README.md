@@ -18,5 +18,6 @@
 ## GitHub Stats:
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjagritiyadav&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjagritiyadav&theme=tokyonight&cache_seconds=0&v=1" />
 </p>
+
