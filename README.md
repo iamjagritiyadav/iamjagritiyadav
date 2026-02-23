@@ -6,6 +6,7 @@
 * I’m currently learning **RAG Systems, LLMs and Advanced Deep Learning**
 *  I’m looking to collaborate on **AI/ML projects**
 * How to reach me: [iamyjagriti@gmail.com](mailto:iamyjagriti@gmail.com)
+* Portfolio website : https://iamyjagriti.vercel.app/
 
 
 ## Languages and Tools:
