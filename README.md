@@ -3,7 +3,7 @@
 ### A passionate AI/ML student and developer
 
 *  I’m currently working on **Machine Learning and Computer Vision**
-* I’m currently learning **RAG Systems, LLMs and Advanced Deep Learning**
+* I’m currently learning **RAG Systems, LLMs and Deep Learning**
 *  I’m looking to collaborate on **AI/ML projects**
 * How to reach me: [iamyjagriti@gmail.com](mailto:iamyjagriti@gmail.com)
 * Portfolio website : https://iamyjagriti.vercel.app/
